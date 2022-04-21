@@ -1,4 +1,4 @@
-# deezer-remasterizado
+# Deezer-remasterizado
 
 Remasterização da página inicial do Deezer
 ![1](https://user-images.githubusercontent.com/102795654/164564978-0ca41db1-61fe-415e-8f49-a429cb3e4e91.png)
